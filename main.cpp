@@ -41,7 +41,7 @@ int main()
     if (option == "1")
     {
         ifstream file1("C:/Login/username.txt");
-        ifstream file2("C:/Login/password.txt");
+        ifstream file2("C:/Login/mdp.txt");
         string content1;
         string content2;
         while (file1 >> content1) {
