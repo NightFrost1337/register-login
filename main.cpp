@@ -34,7 +34,7 @@ int main()
 
 
     string option;
-    cout << "[1] Login\n";
+    cout << "[1] login\n";
     cout << "[2] Register\n";
     cin >> option;
 
