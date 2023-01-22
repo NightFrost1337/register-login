@@ -101,6 +101,7 @@ int main()
         outFile.close();
         system("cls");
         main();
+        cout>>"Succes !";
     }
 
 
