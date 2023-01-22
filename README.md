@@ -1,2 +1,3 @@
 # register-login
-A register and login form made with C++ and by NightFrost, enjoy !
+
+A register and login form made in C++ and by NightFrost, enjoy !
